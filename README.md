@@ -13,11 +13,23 @@ The survey data was transformed into three distinct and informative worksheets:
 ### 1. Data Professional Happiness Index (Interactive Dashboard)
 This section displays the happiness metrics of survey respondents, encompassing aspects like salary satisfaction, work-life balance, collaboration with coworkers, and more.
 
+### Screenshot
+
+[![image.png](https://i.postimg.cc/5yDsHfxC/image.png)](https://postimg.cc/8fBR9Qfp)
+
 ### 2. Survey Respondent by Country (Map Visualization)
 An illustrative map showcasing the geographical distribution of survey respondents, their average salaries based on location, and average age.
 
+### Screenshot
+
+[![image.png](https://i.postimg.cc/Bnpwp9pd/image.png)](https://postimg.cc/K1KNcWdN)
+
 ### 3. Extra Analysis
 This section delves into various additional insights, including preferred programming languages, the ease of transitioning into data analysis, salary breakdown by job roles, and more.
+
+### Screenshot
+
+[![image.png](https://i.postimg.cc/qRsKc0XK/image.png)](https://postimg.cc/k65D90HM)
 
 ## Challenges Faced
 
